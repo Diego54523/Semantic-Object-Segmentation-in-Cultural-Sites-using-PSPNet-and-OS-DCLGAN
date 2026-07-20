@@ -109,7 +109,7 @@ python utility/evaluate.py --weights_path path/to/weights.pth
 
 ## 📚 References & Acknowledgments
 
-* **Baseline idea and EGO-CH dataset from:** *Semantic Segmentation of Cultural Heritage Objects in Egocentric Videos* (ICPR 2020) - Rundo et al.
+* * **Baseline idea and EGO-CH dataset from:** [*Semantic Segmentation of Cultural Heritage Objects in Egocentric Videos* (ICPR 2020)](ICPR2020_Segmentation_CR.pdf)
 * **Segmentation architecture based on:** [PSPNet (Pyramid Scene Parsing Network)](https://github.com/hszhao/PSPNet) - CVPR 2017.
 * **Unsupervised translation inspired by:** [OSUDL (One-Sided Unsupervised Domain Adaptation via Dual Contrastive Learning)](https://github.com/RedPotatoChip/OSUDL).
 
